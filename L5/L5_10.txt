@@ -1,0 +1,11 @@
+﻿5 3
+Title1;4,01;Bank1;Account1;6
+Title2;4,01;Bank2;Account2;6
+Title3;4,01;Bank3;Account3;6
+Title4;4,01;Bank4;Account4;6
+Title5;4,01;Bank5;Account5;6
+7 1 0
+7 1 0
+7 1 0
+7 1 0
+7 1 0
